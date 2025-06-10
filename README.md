@@ -59,7 +59,14 @@ This application is deployed using GitHub Pages and is available at:
 #OUTPUT
 
 #HOME PAGE
+
+![Image](https://github.com/user-attachments/assets/b8e0955e-6d50-47f2-bd98-98a731197533)
+
 #SEARCH HISTORY
+
+![Image](https://github.com/user-attachments/assets/e51bbba5-2841-44b5-b0d1-ad896f76900c)
 #FAVORITES
+
+![Image](https://github.com/user-attachments/assets/e51bbba5-2841-44b5-b0d1-ad896f76900c)
 
 
