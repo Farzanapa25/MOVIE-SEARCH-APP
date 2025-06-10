@@ -54,6 +54,8 @@ This application is deployed using GitHub Pages and is available at:
 
 -Enjoy browsing in a clean, cinematic interface.
 
+#OUTPUT
+#URL:https://farzanapa25.github.io/MOVIE-SEARCH-APP/
 
 
 
