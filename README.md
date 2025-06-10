@@ -49,11 +49,12 @@ This application is deployed using GitHub Pages and is available at:
 
 # Usage
 -Type a movie title in the search bar to get results.
-- Click on any movie to see full details (plot, genre, rating).
 
-- Add movies to your Favorites list.
+-Click on any movie to see full details (plot, genre, rating).
 
-- Enjoy browsing in a clean, cinematic interface.
+-Add movies to your Favorites list.
+
+-Enjoy browsing in a clean, cinematic interface.
 
 
 
