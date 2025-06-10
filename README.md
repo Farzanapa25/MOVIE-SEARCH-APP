@@ -35,10 +35,14 @@ Welcome to the Movie Search App! This React-based web application enables users 
 
 # Installation
 -Clone the repositorygit clone https://github.com/Farzanapa25/MOVIE-SEARCH-APP.git
+
 -Navigate into the project folder:cd MOVIE-SEARCH-APP
+
 -Install dependencies:npm install
+
 -Start the development server:npm start
-Open http://localhost:3000 in your browser to view the app.
+
+-Open http://localhost:3000 in your browser to view the app.
 
 # Deployment
 This application is deployed using GitHub Pages and is available at:
