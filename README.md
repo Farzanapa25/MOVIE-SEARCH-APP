@@ -47,7 +47,7 @@ Welcome to the Movie Search App! This React-based web application enables users 
 # Deployment
 This application is deployed using GitHub Pages and is available at:
 
-🔗 https://farzanapa25.github.io/WEATHER-DASHBOARD/
+🔗  https://farzanapa25.github.io/MOVIE-SEARCH-APP/
 
 # Usage
 -Type a movie title in the search bar to get results.
@@ -58,6 +58,8 @@ This application is deployed using GitHub Pages and is available at:
 
 #OUTPUT
 
-
+#HOME PAGE
+#SEARCH HISTORY
+#FAVORITES
 
 
