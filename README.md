@@ -64,7 +64,7 @@ This application is deployed using GitHub Pages and is available at:
 
 #SEARCH HISTORY
 
-![Image](https://github.com/user-attachments/assets/e51bbba5-2841-44b5-b0d1-ad896f76900c)
+
 #FAVORITES
 
 ![Image](https://github.com/user-attachments/assets/e51bbba5-2841-44b5-b0d1-ad896f76900c)
