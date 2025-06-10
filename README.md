@@ -1,1 +1,15 @@
 # MOVIE-SEARCH-APP
+
+*COMPANY*: CODTECH IT SOLUTIONS
+
+*NAME*:  Farzana P A
+
+*INTERN ID*: CT04DF1800
+
+*DOMAIN*: React.js Web Development
+
+*DURATION*: 4 weeks
+
+*MENTOR*: NEELA SANTHOSH
+
+# Task Description:
