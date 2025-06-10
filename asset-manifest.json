@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MOVIE-SEARCH-APP/static/css/main.117dc7c1.css",
+    "main.js": "/MOVIE-SEARCH-APP/static/js/main.d06820d6.js",
+    "static/js/453.0b30a3d5.chunk.js": "/MOVIE-SEARCH-APP/static/js/453.0b30a3d5.chunk.js",
+    "index.html": "/MOVIE-SEARCH-APP/index.html",
+    "main.117dc7c1.css.map": "/MOVIE-SEARCH-APP/static/css/main.117dc7c1.css.map",
+    "main.d06820d6.js.map": "/MOVIE-SEARCH-APP/static/js/main.d06820d6.js.map",
+    "453.0b30a3d5.chunk.js.map": "/MOVIE-SEARCH-APP/static/js/453.0b30a3d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.117dc7c1.css",
+    "static/js/main.d06820d6.js"
+  ]
+}
